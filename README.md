@@ -4,7 +4,7 @@
 
 ### O'zbekistondan Full-Stack Dasturchi  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&lines=Professional+Websaytlar+Yaratish;Telegram+Botlar+Yaratish;Full-Stack+Dasturchi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&lines=Professional+Websaytlar+Yaratish;Telegram+Botlar+Yaratish;Full-Stack+Dasturchi)](https://git.io/typing-svg)
 
 ---
 
