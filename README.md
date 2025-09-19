@@ -2,6 +2,8 @@
 
 ### O'zbekistondan Full-Stack Dasturchi
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF00&center=true&vCenter=true&lines=Professional+Websaytlar+Yasash;Telegram+Botlar+Yasash;Full-Stack+Dasturchi)](https://git.io/typing-svg)
+
 ---
 
 ## 🛠 Mening Texnologiyalarim
