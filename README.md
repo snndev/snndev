@@ -4,7 +4,7 @@
 
 ### O'zbekistondan Full-Stack Dasturchi  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=2000&width=600&color=00FF00&center=true&vCenter=true&lines=Professional+Websaytlar+Yaratish;Telegram+Botlar+Yaratish;Full-Stack+Dasturchi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&weight=700&duration=4000&pause=2000&width=800&color=00FF00&center=true&vCenter=true&lines=Professional+Websaytlar+Yaratish;Telegram+Botlar+Yaratish;Full-Stack+Dasturchi)](https://git.io/typing-svg)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ## 📫 Bog‘lanish  
 
-📧 Email: **nurmuhammadsodiqjonov55@gmail.com**  
+📧 Email: [nurmuhammadsodiqjonov55@gmail.com](mailto:nurmuhammadsodiqjonov55@gmail.com)
 💬 Telegram: [Nυrмυнαммα∂](https://t.me/snn_dev)  
 🌐 GitHub: [snndev](https://github.com/snndev)  
 
