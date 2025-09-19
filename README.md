@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Assalomu alaykum, men Nurmuhammad  
 
 ### O'zbekistondan Full-Stack Dasturchi  
@@ -31,8 +33,10 @@
 
 ## 📫 Bog‘lanish  
 
-- Email: nurmuhammadsodiqjonov55@gmail.com  
-- Telegram: [Nυrмυнαммα∂](https://t.me/snn_dev)  
-- GitHub: [snndev](https://github.com/snndev)  
+📧 Email: **nurmuhammadsodiqjonov55@gmail.com**  
+💬 Telegram: [Nυrмυнαммα∂](https://t.me/snn_dev)  
+🌐 GitHub: [snndev](https://github.com/snndev)  
 
 *© 2025 Nurmuhammad*  
+
+</div>
