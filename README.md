@@ -17,7 +17,8 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST-%23D83030?style=flat-square&logo=django&logoColor=white)  
 
 ### Ma'lumotlar Bazasi  
-![SQLite](https://img.shields.io/badge/SQLite-%230074AD?style=flat-square&logo=sqlite&logoColor=white)  
+
+![SQLite](https://img.shields.io/badge/SQLite-%230074AD?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Boshqa Vositalar  
