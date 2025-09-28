@@ -18,6 +18,7 @@
 
 ### Ma'lumotlar Bazasi  
 ![SQLite](https://img.shields.io/badge/SQLite-%230074AD?style=flat-square&logo=sqlite&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Boshqa Vositalar  
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)  
